@@ -149,7 +149,6 @@ int main() {
 
     cout << "Penco 2" << endl;
     cout << "Penco 3" << endl;
-    cout << "Penco 4" << endl;
 
 
 
